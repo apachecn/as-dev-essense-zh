@@ -2,7 +2,7 @@
 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
-> 尔曹身与名俱灭,不废江河万古流。——杜甫《戏为六绝句·其二》
+> 尔曹身与名俱灭，不废江河万古流。——杜甫《戏为六绝句·其二》
 
 * [在线阅读](https://asde.apachecn.org)
 * [在线阅读（Gitee）](https://apachecn.gitee.io/doc-template/)
